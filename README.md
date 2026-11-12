@@ -1,2 +1,0 @@
-# trenigi
-Treningi 
