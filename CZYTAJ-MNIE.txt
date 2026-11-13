@@ -1,8 +1,0 @@
-TRAINING - instalacja na iPhonie (PWA)
-
-1. Wrzuć całą zawartość folderu na adres HTTPS (GitHub Pages, albo Twój serwer Apache z certyfikatem).
-2. Na iPhonie otwórz adres w SAFARI -> Udostępnij -> "Dodaj do ekranu początkowego".
-3. Zawsze otwieraj aplikację z ikony na ekranie (nie z karty Safari). Wtedy dane są trwalsze.
-4. Zakładka Kopia -> "Zapisz kopię" -> Zapisz w Plikach (iCloud Drive). Rób to co tydzień-dwa.
-
-Plan ćwiczeń edytujesz w index.html na górze (sekcja PLAN).
