@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <pattern id="len" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 0.5H6M0.5 0V6" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" fill="#1f4a3d"/>
+  <rect width="512" height="512" fill="url(#len)"/>
+  <g transform="translate(64 58) scale(.75)">
+    <path d="M118 380c56-7 104 0 138 24 34-24 82-31 138-24v16c-56-7-104 0-138 24-34-24-82-31-138-24z" fill="#c9a35a"/>
+    <path d="M256 170c-34-23-82-31-138-25v235c56-7 104 0 138 24z" fill="#ebe8db"/>
+    <path d="M256 170c34-23 82-31 138-25v235c-56-7-104 0-138 24z" fill="#f7f5ec"/>
+    <path d="M256 170v234" stroke="#cbc6b1" stroke-width="3"/>
+    <g fill="none" stroke="#bdb8a3" stroke-width="7" stroke-linecap="round">
+      <path d="M146 192c32-3 60 1 84 11"/>
+      <path d="M146 222c32-3 60 1 84 11"/>
+      <path d="M146 252c32-3 60 1 84 11"/>
+      <path d="M146 282c32-3 60 1 84 11"/>
+      <path d="M146 312c22-2 42 0 58 5"/>
+      <path d="M282 203c24-10 52-14 84-11"/>
+      <path d="M282 233c24-10 52-14 84-11"/>
+      <path d="M282 263c24-10 52-14 84-11"/>
+      <path d="M282 293c24-10 52-14 84-11"/>
+    </g>
+    <path d="M318 132h34v318l-17-21-17 21z" fill="#000000" fill-opacity=".18" transform="translate(5 3)"/>
+    <path d="M318 132h34v318l-17-21-17 21z" fill="#a3233a"/>
+    <path d="M318 132h8v318l-8 0z" fill="#ffffff" fill-opacity=".12"/>
+  </g>
+</svg>
